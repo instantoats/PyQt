@@ -1,7 +1,7 @@
 from PyQt6.QtWidgets import QApplication, QWidget
 import sys
 
-app = QApplication(sys.argv)
+app = QApplication(sys.
 
 window = QWidget()
 window.statusBar().showMessage("Welcome to the course")
